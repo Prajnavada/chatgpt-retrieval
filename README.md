@@ -10,4 +10,4 @@ pip install langchain openai chromadb tiktoken unstructured gradio
 ```
 Modify `constants.py.default` to use your own [OpenAI API key](https://platform.openai.com/account/api-keys).
 
-Place your own data into `data/data.txt`.
+Place your own data into `data/docs` folder.
