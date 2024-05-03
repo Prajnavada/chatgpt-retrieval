@@ -3,7 +3,7 @@ import os
 import constants
 
 os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
-os.environ["LANGCHAIN_API_KEY"] = "ls__7ffaf71851ec43c19231576c4449ae24"
+os.environ["LANGCHAIN_API_KEY"] = constans.APIKEY
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
 
 # OpenAI
